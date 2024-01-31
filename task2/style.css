@@ -1,0 +1,47 @@
+label {
+    color: darkblue;
+}
+
+fieldset {
+    width: fit-content;
+    border: 3px solid gray;
+    border-radius: 5px;
+    font-size: 1;
+    font-weight: bold;
+    background-color: lightblue;
+    margin-bottom: 15px;
+}
+
+td {
+    padding-right: 10px;
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+#number, #color {
+    width: 55%;
+    margin-left: 30px;
+}
+
+meter {
+    margin-top: 0;
+    height: 40px;
+    width: 250px;
+}
+
+#info {
+    width: 250px;
+    height: 150px;
+}
+
+#file {
+    align-content: center;
+}
+
+#register {
+    width: 100%;
+}
+#likes{
+    width: 200%;
+    height: 10rem;
+}
